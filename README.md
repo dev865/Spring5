@@ -12,3 +12,5 @@ chap04
 https://www.notion.so/Chapter-4-aad1bfea969841129cb9766b09a53e65
 chap05
 https://www.notion.so/Chapter-5-aad1bfea969841129cb9766b09a53e65
+chap06
+https://www.notion.so/Chapter-6-15231854d948423bb327b94b3a3abca6
